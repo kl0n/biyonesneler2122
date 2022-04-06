@@ -1,0 +1,4 @@
+Entry	Gene names	Gene ontology (GO)
+P00934	thrC b0004 JW0003	cytosol [GO:0005829]; pyridoxal phosphate binding [GO:0030170]; threonine synthase activity [GO:0004795]; threonine biosynthetic process [GO:0009088]
+P00561	thrA thrA1 thrA2 b0002 JW0001	aspartate kinase activity [GO:0004072]; ATP binding [GO:0005524]; homoserine dehydrogenase activity [GO:0004412]; NADP binding [GO:0050661]; homoserine biosynthetic process [GO:0009090]; lysine biosynthetic process via diaminopimelate [GO:0009089]; threonine biosynthetic process [GO:0009088]
+P00547	thrB b0003 JW0002	cytosol [GO:0005829]; ATP binding [GO:0005524]; homoserine kinase activity [GO:0004413]; threonine biosynthetic process [GO:0009088]
